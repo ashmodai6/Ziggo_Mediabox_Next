@@ -46,8 +46,8 @@ MEDIA_KEY_STOP = "MediaStop"  # Not yet implemented
 MEDIA_KEY_REWIND = "MediaRewind"  # Not yet implemented
 MEDIA_KEY_FAST_FORWARD = "MediaFastForward"  # Not yet implemented
 
-API_URL_LISTING_FORMAT = "https://web-api-prod-obo.horizon.tv/oesp/v3/NL/nld/web/listings/?byStationId={stationId}&byScCridImi={id}"
-API_URL_RECORDING_FORMAT = "https://web-api-prod-obo.horizon.tv/oesp/v3/NL/nld/web/listings/?byScCridImi={id}"
+API_URL_LISTING_FORMAT = "https://web-api-prod-obo.horizon.tv/oesp/v3/CH/eng/web/listings/?byStationId={stationId}&byScCridImi={id}"
+API_URL_RECORDING_FORMAT = "https://web-api-prod-obo.horizon.tv/oesp/v3/CH/eng/web/listings/?byScCridImi={id}"
 _LOGGER = logging.getLogger(__name__)
 
 

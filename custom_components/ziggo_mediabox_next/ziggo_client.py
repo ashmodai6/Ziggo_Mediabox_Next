@@ -8,9 +8,9 @@ from homeassistant.helpers.entity import Entity
 from .idmaker import makeId
 
 
-API_URL_SESSION = "https://web-api-prod-obo.horizon.tv/oesp/v3/NL/nld/web/session"
-API_URL_TOKEN = "https://web-api-prod-obo.horizon.tv/oesp/v3/NL/nld/web/tokens/jwt"
-DEFAULT_HOST = "obomsg.prod.nl.horizon.tv"
+API_URL_SESSION = "https://web-api-prod-obo.horizon.tv/oesp/v3/CH/eng/web/session"
+API_URL_TOKEN = "https://web-api-prod-obo.horizon.tv/oesp/v3/CH/eng/web/tokens/jwt"
+DEFAULT_HOST = "obomsg.prod.ch.horizon.tv"
 DEFAULT_PORT = 443
 
 _LOGGER = logging.getLogger(__name__)

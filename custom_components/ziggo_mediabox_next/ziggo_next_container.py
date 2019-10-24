@@ -9,7 +9,7 @@ import json
 import requests
 
 _LOGGER = logging.getLogger(__name__)
-API_URL_CHANNELS = "https://web-api-prod-obo.horizon.tv/oesp/v3/NL/nld/web/channels"
+API_URL_CHANNELS = "https://web-api-prod-obo.horizon.tv/oesp/v3/CH/eng/web/channels"
 
 
 class ZiggoNextContainer:
