@@ -1,4 +1,4 @@
-# Ziggo Mediabox Next
+# Ziggo Mediabox Next (CH Version)
 
 ## Description
 A media_player component for Home Assistant that creates media_players for each Ziggo Media Box Next in your account.
