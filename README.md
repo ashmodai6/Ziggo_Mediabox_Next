@@ -2,6 +2,7 @@
 
 ## Description
 A media_player component for Home Assistant that creates media_players for each Ziggo Media Box Next in your account.
+Forked from the original project to change APIs urls from the dutch version to point to Swizerland UPC ones. No other changes. Please thank the original brain behind this great work
 
 ## Prerequisites
 - You need a Ziggo account with a Ziggo Media Box Next.
